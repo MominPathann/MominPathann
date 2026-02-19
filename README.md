@@ -1,3 +1,25 @@
+# Momin Khan | Aviation Data Analyst ✈️📊
+
+**B.Sc. Aeronautics | Ex-Aircraft Maintenance Trainee | Big Data & Reliability Analytics**
+
+I don't just analyze numbers; I analyze *metal*. 
+
+With a background in aeronautical engineering and hands-on aircraft maintenance operations, I bridge the gap between heavy aviation machinery and high-performance data architecture. I specialize in building data pipelines that process massive, complex datasets to solve operational bottlenecks, track component reliability, and minimize AOG (Aircraft on Ground) time. 
+
+If you are looking for a generic coder, there are thousands. If you are looking for an analyst who actually knows the difference between an A-Check and a C-Check, and can query 7 million rows of flight data to prove it—you are in the right place.
+
+### ⚙️ The Arsenal
+* **Domain Expertise:** Aircraft Maintenance Operations, Fleet Reliability, Technical Records.
+* **Data Engineering:** Python (Pandas/NumPy), SQL (CTEs, Window Functions), DuckDB.
+* **Visualization & BI:** Power BI, Streamlit, Plotly.
+
+### 🚀 Deployed Operations
+* **US Aviation Reliability Pipeline:** Engineered a data pipeline to process **7.07 Million** domestic flight records. Utilized DuckDB and Python to compress storage by 98% and power a zero-lag analytics dashboard for route and delay optimization.
+* **Boeing 737 Component Reliability:** Extracted and analyzed FAA Service Difficulty Reports to isolate failure patterns and predict maintenance bottlenecks for the 737 fleet.
+
+📫 **Connect with me on LinkedIn:** [Insert Your LinkedIn Link Here]
+
+
 # 💫 About Me:
 # Momin Khan | Aviation Data Analyst ✈️📊<br><br>**B.Sc. Aeronautics | Ex-Aircraft Maintenance Trainee | Big Data & Reliability Analytics**<br><br>I don't just analyze numbers; I analyze *metal*. <br><br>With a background in aeronautical engineering and hands-on aircraft maintenance operations, I bridge the gap between heavy aviation machinery and high-performance data architecture. I specialize in building data pipelines that process massive, complex datasets to solve operational bottlenecks, track component reliability, and minimize AOG (Aircraft on Ground) time. <br><br>If you are looking for a generic coder, there are thousands. If you are looking for an analyst who actually knows the difference between an A-Check and a C-Check, and can query 7 million rows of flight data to prove it—you are in the right place.<br><br>### ⚙️ The Arsenal<br>* **Domain Expertise:** Aircraft Maintenance Operations, Fleet Reliability, Technical Records.<br>* **Data Engineering:** Python (Pandas/NumPy), SQL (CTEs, Window Functions), DuckDB.<br>* **Visualization & BI:** Power BI, Streamlit, Plotly.<br><br>### 🚀 Deployed Operations<br>* **US Aviation Reliability Pipeline:** Engineered a data pipeline to process **7.07 Million** domestic flight records. Utilized DuckDB and Python to compress storage by 98% and power a zero-lag analytics dashboard for route and delay optimization.<br>* **Boeing 737 Component Reliability:** Extracted and analyzed FAA Service Difficulty Reports to isolate failure patterns and predict maintenance bottlenecks for the 737 fleet.<br><br>
 
